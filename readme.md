@@ -24,6 +24,6 @@ To get started with CandyCrushGame, you can deploy the contract to a supported E
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/CandyCrushGame.git
+git clone https://github.com/prithusrivastava/avaxmod4.git
 npm install
 ```
